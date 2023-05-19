@@ -1,5 +1,8 @@
 # School_District_Analysis
 
+## Resources
+-Data Source: new_full_student_data.csv
+-Software: Python 3.9.13, Visual Studio, 1.74.3
 
 ## Summary
 
